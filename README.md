@@ -6,19 +6,23 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 
 - [x] Add R project to the organization.
 - [ ] Add web scraper package to the organization.
-- [ ] Include R package as a submodule in this repostory.
-- [ ] Include web scraper package as a submodule in this repostory. 
-- [ ] Include Lacuna V<sub>2</sub> package as a submodule in this repostory. 
-- [ ] Include Android Runner package as a submodule in this repostory. 
+- [ ] Include R package as a subtree in this repostory.
+- [ ] Include web scraper package as a subtree in this repostory. 
+- [ ] Include Lacuna V<sub>2</sub> package as a subtree in this repostory. 
+- [ ] Include Android Runner package as a subtree in this repostory. 
 - [ ] Include a (open-source?) license to the project.
-- [ ] Write One Paragraph of project description
+- [x] Write One Paragraph of project description
 - [ ] Write installation procress.
 - [ ] Write prerequisites procress.
 - [ ] Write execution procress.
 - [x] Write authors.
 - [x] Write acknowledgments.
+- [ ] Write about gitsubtree script.
 - [x] Link authors github.
-- [ ] Decide to keep or remove the links for the university, master, course, acknowledgements, etc. 
+- [ ] Decide to keep or remove the links for the university, master, course, acknowledgements, etc.
+- [ ] Update remote git url for LacunaV<sub>2</sub> package in gitsubtree script.
+- [ ] Update remote git url for web scraper package in gitsubtree script.
+- [ ] Update remote git url for android runner package in gitsubtree script.
 
 ## Getting Started
 
@@ -38,11 +42,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Authors 
 
-- *Azim AFroozeh* &ndash; [azimafroozeh](https://github.com/azimafroozeh) 
+- *Azim AFroozeh* &ndash; [azimafroozeh](https://github.com/azimafroozeh);
 - *Saliha Tabbassum* &ndash; [saalihairshad](https://github.com/saalihairshad); 
-- *Stan Swanborn* &ndash; [StanSwanborn](https://github.com/StanSwanborn)
-- *Thijmen Kurk* &ndash; [ThijmenKurk](https://github.com/ThijmenKurk)
-- *Wesley Shann* &ndash; [sshann](https://github.com/sshann)
+- *Stan Swanborn* &ndash; [StanSwanborn](https://github.com/StanSwanborn);
+- *Thijmen Kurk* &ndash; [ThijmenKurk](https://github.com/ThijmenKurk);
+- *Wesley Shann* &ndash; [sshann](https://github.com/sshann);
 
 ## License
 
