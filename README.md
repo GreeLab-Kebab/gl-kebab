@@ -6,25 +6,25 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 
 - [x] Add R project to the organization.
 - [ ] Add web scraper package to the organization.
-- [ ] Include R package as a subtree in this repostory.
-- [ ] Include web scraper package as a subtree in this repostory. 
-- [ ] Include Lacuna V<sub>2</sub> package as a subtree in this repostory. 
-- [ ] Include Android Runner package as a subtree in this repostory. 
-- [ ] Include a (open-source?) license to the project.
-- [x] Write One Paragraph of project description
-- [ ] Write installation procress.
-- [ ] Write prerequisites procress.
-- [ ] Write execution procress.
+- [ ] Include R package as a subtree in this repository.
+- [ ] Include web scraper package as a subtree in this repository. 
+- [ ] Include Lacuna V<sub>2</sub> package as a subtree in this repository. 
+- [ ] Include Android Runner package as a subtree in this repository. 
+- [x] Include an open-source license to the project.
+- [x] Write One Paragraph of the project description
+- [ ] Write installation process.
+- [ ] Write prerequisites process.
+- [ ] Write execution process.
 - [x] Write authors.
-- [x] Write acknowledgments.
+- [x] Write acknowledgements.
 - [x] Write about gitsubtree script.
 - [x] Write about the project goal.
-- [x] Link authors github.
+- [x] Link authors Github account.
 - [ ] Decide to keep or remove the links for the university, master, course, acknowledgements, etc.
-- [ ] Update remote git url for LacunaV<sub>2</sub> package in gitsubtree script.
-- [ ] Update remote git url for web scraper package in gitsubtree script.
-- [ ] Update remote git url for android runner package in gitsubtree script.
-- [ ] Run getting started instructions once all dependences have been included.
+- [ ] Update remote git URL for LacunaV<sub>2</sub> package in gitsubtree script.
+- [ ] Update remote git URL for web scraper package in gitsubtree script.
+- [ ] Update remote git URL for android runner package in gitsubtree script.
+- [ ] Run getting started instructions once all dependencies have been included.
 
 ## Project Goal
 
