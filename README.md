@@ -13,7 +13,7 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 - [x] Include an open-source license to the project.
 - [x] Write One Paragraph of the project description
 - [ ] Write installation process.
-- [ ] Write prerequisites process.
+- [x] Write prerequisites process.
 - [ ] Write execution process.
 - [x] Write authors.
 - [x] Write acknowledgements.
@@ -36,7 +36,20 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-*ToDo*
+This project makes use of packages that limit the usage of Linux and macOS machines only. As it requires extra effort to running on macOS, this project experiment was executed in a Linux machine.
+
+Each package has its requirements, overall, this project was executed using:
+
+- Linux distribution -- Ubuntu 18.04 LTS
+- Android device -- LG Nexus 5X -- Android OS v8.1.0
+- Android Studio SDK
+- Python v2.7
+- JDK v8
+- NodeJS v10
+- NPM v6
+- R 
+
+While older versions of the linux distribution, Android OS, NodeJS and NPM might work, they were not tested.
 
 ### Instalation
 
