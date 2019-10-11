@@ -24,7 +24,8 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 - [ ] Update remote git URL for LacunaV<sub>2</sub> package in gitsubtree script.
 - [ ] Update remote git URL for web scraper package in gitsubtree script.
 - [ ] Update remote git URL for android runner package in gitsubtree script.
-- [ ] Run getting started instructions once all dependencies have been included.
+- [ ] Test getting started instructions once all dependencies have been included.
+- [ ] Test all links in this README.
 
 ## Project Goal
 
@@ -51,9 +52,15 @@ Each package has its requirements, overall, this project was executed using:
 
 While older versions of the linux distribution, Android OS, NodeJS and NPM might work, they were not tested.
 
+It is not recommended the use of Virtual Machines.
+
 ### Instalation
 
-*ToDo*
+After cloning the repository in the linux distribution, the next step is to install the packages dependencies.
+
+You can refer to each package readme available at [GL Kebab R](packages/gl-kebab-r), [GL Kebab Scraper](packages/gl-kebab-scraper), [Lacuna V<sub>2</sub>](packages/lacuna-v2) and [Android Runner](packages/android-runner).
+
+*ToDo* Next steps
 
 ### Execution
 
