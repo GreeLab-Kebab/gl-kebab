@@ -5,9 +5,9 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 ## ToDo
 
 - [x] Add R project to the organization.
-- [ ] Add web scraper package to the organization.
+- [ ] Add mobile web apps package to the organization.
 - [ ] Include R package as a subtree in this repository.
-- [ ] Include web scraper package as a subtree in this repository. 
+- [ ] Include mobile web apps package as a subtree in this repository. 
 - [ ] Include Lacuna V<sub>2</sub> package as a subtree in this repository. 
 - [ ] Include Android Runner package as a subtree in this repository. 
 - [x] Include an open-source license to the project.
@@ -22,7 +22,7 @@ This project refers to the course assignment ``An Empirical Analysis of JavaScri
 - [x] Link authors Github account.
 - [ ] Decide to keep or remove the links for the university, master, course, acknowledgements, etc.
 - [ ] Update remote git URL for LacunaV<sub>2</sub> package in gitsubtree script.
-- [ ] Update remote git URL for web scraper package in gitsubtree script.
+- [ ] Update remote git URL for mobile web apps package in gitsubtree script.
 - [ ] Update remote git URL for android runner package in gitsubtree script.
 - [ ] Test getting started instructions once all dependencies have been included.
 - [ ] Test all links in this README.
@@ -58,7 +58,7 @@ It is not recommended the use of Virtual Machines.
 
 After cloning the repository in the linux distribution, the next step is to install the packages dependencies.
 
-You can refer to each package readme available at [GL Kebab R](packages/gl-kebab-r), [GL Kebab Scraper](packages/gl-kebab-scraper), [Lacuna V<sub>2</sub>](packages/lacuna-v2) and [Android Runner](packages/android-runner).
+You can refer to each package readme available at [GL Kebab R](packages/gl-kebab-r), [GL Kebab Mobile web apps](packages/gl-kebab-mobile-web-apps), [Lacuna V<sub>2</sub>](packages/lacuna-v2) and [Android Runner](packages/android-runner).
 
 *ToDo* Next steps
 
@@ -73,7 +73,7 @@ The project makes uses of the following packages
 - [Lacuna V<sub>2</sub>](https://github.com/Kishanjay/LacunaV2): Provides the analyse and removal JavaScript dead code.
 - [Android Runner](https://github.com/sshann/android-runner): Provides the automation of the experiment execution in Android devices.
 - [GL Kebab R](https://github.com/GreeLab-Kebab/gl-kebab-r): Provides the randomization in the experiment design and the data analysis of the results produced by Android Runner. 
-- [GL Kebab Web Scraper](/#): Provides the experiment subjects.
+- [GL Kebab Mobile Web Apps](/#): Provides the experiment subjects.
 
 ### Updating packages
 
