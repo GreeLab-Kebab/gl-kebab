@@ -37,7 +37,14 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-This project makes use of packages that limit the usage of Linux and macOS machines only. As it requires extra effort to running on macOS, this project experiment was executed in a Linux machine.
+The project makes uses of the following packages 
+
+- [Lacuna V<sub>2</sub>](https://github.com/Kishanjay/LacunaV2): Provides the analyse and removal JavaScript dead code.
+- [Android Runner](https://github.com/sshann/android-runner): Provides the automation of the experiment execution in Android devices.
+- [GL Kebab R](https://github.com/GreeLab-Kebab/gl-kebab-r): Provides the randomization in the experiment design and the data analysis of the results produced by Android Runner. 
+- [GL Kebab Mobile Web Apps](/#): Provides the experiment subjects.
+
+Android Runner limit the usage of Linux and macOS machines only. As it requires extra effort to running on macOS, this project experiment was executed in a Linux machine.
 
 Each package has its requirements, overall, this project was executed using:
 
@@ -64,18 +71,21 @@ You can refer to each package readme available at [GL Kebab R](packages/gl-kebab
 
 ### Execution
 
+#### Obtaining subjects
+
 *ToDo*
 
-## Packages
+#### Running experimentation
 
-The project makes uses of the following packages 
+*ToDo*
 
-- [Lacuna V<sub>2</sub>](https://github.com/Kishanjay/LacunaV2): Provides the analyse and removal JavaScript dead code.
-- [Android Runner](https://github.com/sshann/android-runner): Provides the automation of the experiment execution in Android devices.
-- [GL Kebab R](https://github.com/GreeLab-Kebab/gl-kebab-r): Provides the randomization in the experiment design and the data analysis of the results produced by Android Runner. 
-- [GL Kebab Mobile Web Apps](/#): Provides the experiment subjects.
+#### Analysing data
 
-### Updating packages
+*ToDo*
+
+## Automation scripts
+
+### gitsubtree
 
 This project uses git subtree to manage the dependency packages. An automation script is available at [gitsubtree.command](gitsubtree.command), which provides the following commands:
 
@@ -84,6 +94,12 @@ This project uses git subtree to manage the dependency packages. An automation s
 - `sh gitsubtree pull_subtrees`: Fetch the changes from the remote packages and merge to the local repository by executing `git subtree add --prefix=<dest_path> --squash <package_name> master` for all packages;
 
 For replication of the experiment, it is not necessary to fetch the packages. The packages should be fetched during development only. Modifications in the packages should be made in the package repository. 
+
+## Directory Structure Overview
+
+This reposisory is structured as follows:
+
+*ToDo ls command output + description*
 
 ## Authors 
 
