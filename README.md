@@ -1,4 +1,4 @@
-# Green Lab - Kebab Team
+# An Empirical Analysis of JavaScript Dead Code in the Wild &ndash; Replication Package (Green Lab 2019-2020)
 
 This project refers to the course assignment ``An Empirical Analysis of JavaScript Dead Code in the Wild`` of the 2019-2020 edition of the [Vrije Universiteit Amsterdam](https://www.vu.nl/en), [Computer Science Master Degree](https://masters.vu.nl/en/programmes/computer-science-uva/index.aspx), [Green Lab](https://studiegids.vu.nl/en/Master/2018-2019/computer-science/X_418158) course. This repository contains all information required to replicate the experimentation, described by the instructions in this README. 
 
