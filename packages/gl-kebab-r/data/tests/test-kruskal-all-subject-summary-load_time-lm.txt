@@ -1,0 +1,22 @@
+Kruskal linear model summary in  Load time (ms)
+
+Call:
+lm(formula = data[, column] ~ data$opt_level)
+
+Residuals:
+    Min      1Q  Median      3Q     Max 
+-158.18 -104.38  -42.12   72.12  831.01 
+
+Coefficients:
+                Estimate Std. Error t value Pr(>|t|)    
+(Intercept)      373.987     11.665  32.062   <2e-16 ***
+data$opt_level1   -1.881     16.496  -0.114    0.909    
+data$opt_level2   -3.806     16.496  -0.231    0.818    
+data$opt_level3   -1.937     16.496  -0.117    0.907    
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Residual standard error: 147.5 on 636 degrees of freedom
+Multiple R-squared:  8.372e-05,	Adjusted R-squared:  -0.004633 
+F-statistic: 0.01775 on 3 and 636 DF,  p-value: 0.9968
+
