@@ -1,10 +1,10 @@
 #!/bin/sh
 
-readonly GIT_REMOTE_URL_GL_KEBAB_R="git@github.com:GreeLab-Kebab/gl-kebab-r.git"
-readonly GIT_REMOTE_URL_GL_KEBAB_SUBJECT="git@github.com:GreeLab-Kebab/gl-kebab-subjects.git"
-readonly GIT_REMOTE_URL_GL_ANDROID_RUNNER_SCRIPTS="git@github.com:GreeLab-Kebab/gl-kebab-android-runner-scripts.git"
-readonly GIT_REMOTE_URL_LACUNA_V2="git@github.com:GreeLab-Kebab/LacunaV2.git"
-readonly GIT_REMOTE_URL_ANDROID_RUNNER="git@github.com:GreeLab-Kebab/android-runner.git"
+readonly GIT_REMOTE_URL_GL_KEBAB_R="git@github.com:GreenLab-Kebab/gl-kebab-r.git"
+readonly GIT_REMOTE_URL_GL_KEBAB_SUBJECT="git@github.com:GreenLab-Kebab/gl-kebab-subjects.git"
+readonly GIT_REMOTE_URL_GL_ANDROID_RUNNER_SCRIPTS="git@github.com:GreenLab-Kebab/gl-kebab-android-runner-scripts.git"
+readonly GIT_REMOTE_URL_LACUNA_V2="git@github.com:GreenLab-Kebab/LacunaV2.git"
+readonly GIT_REMOTE_URL_ANDROID_RUNNER="git@github.com:GreenLab-Kebab/android-runner.git"
 
 readonly LOCAL_NAME_GL_KEBAB_R="gl-kebab-r"
 readonly LOCAL_NAME_GL_KEBAB_SUBJECT="gl-kebab-subject"
