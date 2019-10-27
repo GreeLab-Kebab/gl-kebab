@@ -14,10 +14,11 @@ These instructions will get you a copy of the project up and running on your loc
 
 The project makes uses of the following packages 
 
-- [Lacuna V<sub>2</sub>](https://github.com/Kishanjay/LacunaV2): Provides the analyse and removal JavaScript dead code.
-- [Android Runner](https://github.com/sshann/android-runner): Provides the automation of the experiment execution in Android devices.
+- [Lacuna V<sub>2</sub>](https://github.com/GreeLab-Kebab/LacunaV2): Provides the analyse and removal JavaScript dead code. Originally forked from [Kishanjay](https://github.com/Kishanjay/LacunaV2) repository, for which several adjustements were made.
+- [Android Runner](https://github.com/GreeLab-Kebab/android-runner): Provides the automation of the experiment execution in Android devices. Forked from [S2-group](https://github.com/S2-group/android-runner) repostiory. No updates were required.
 - [GL Kebab R](https://github.com/GreeLab-Kebab/gl-kebab-r): Provides the randomization in the experiment design and the data analysis of the results produced by Android Runner. 
 - [GL Kebab Subjects](https://github.com/GreeLab-Kebab/gl-kebab-subjects): Provides the experiment subjects and scripts to automate Lacuna V<sub>2</sub> execution.
+- [GL Kebab Android Runner Scripts](https://github.com/GreeLab-Kebab/gl-kebab-android-runner-scripts): Provides scripts used when running Android Runner for this project.
 
 Android Runner limit the usage of Linux and macOS machines only. As it requires extra effort to running on macOS, this project experiment was executed in a Linux machine.
 
