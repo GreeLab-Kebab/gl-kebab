@@ -1,0 +1,8 @@
+Wilcox in  Energy consumption (J)
+
+	Wilcoxon rank sum test with continuity correction
+
+data:  opt_level_0[, column] and opt_level_rows[, column]
+W = 12060, p-value = 0.3715
+alternative hypothesis: true location shift is not equal to 0
+
